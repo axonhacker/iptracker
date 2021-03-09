@@ -49,21 +49,21 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 
 * `pip install requests`
 
-* `git clone https://github.com/noob-hackers/ipdrone`
+* `git clone https://github.com/axonhacker/iptracker`
 
 * `cd $HOME`
 
 * `ls`
 
-* `cd ipdrone`
+* `cd iptracker`
 
 * `ls`
 
-* `python ipdrone.py -v (your victim ip here)`
+* `python iptracker.py -v (your victim ip here)`
 
 ```
 
-ex:- python ipdrone.py -v 127.0,0.1
+example:- python iptracker.py -v 127.0,0.1
 
 Hurray... you got his location with some more information
 
