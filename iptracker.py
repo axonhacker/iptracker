@@ -24,7 +24,7 @@ bold = '\033[01m'
 cyan = '\033[96m'
 
 #banner of script
-print (red+"""
+print (yellow+"""
 
       .o.       ooooooo  ooooo   .oooooo.   ooooo      ooo 
      .888.       `8888    d8'   d8P'  `Y8b  `888b.     `8' 
@@ -39,7 +39,7 @@ o88o     o8888o o888o  o88888o  `Y8bood8P'  o8o        `8
                                                       v 1.0
 """+red)
 print (lgreen+bold+"         <===[[ coded by AXON ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube AXON.HACKER ))--> \n"+clear)
+print (red+bold+"   <---(( search on youtube AXON.HACKER ))--> \n"+clear)
 
 
 ip = args.target
